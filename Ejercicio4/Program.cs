@@ -40,6 +40,8 @@ namespace Ejercicio4
 
             //Console.WriteLine();
 
+
+            //El número aparece desplegado en dos filas. en una de ellas todos juntos, y en la otra separados por un espacio
             while (t < 2)
             {
                 while (i < 4) {
